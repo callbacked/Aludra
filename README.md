@@ -1,5 +1,7 @@
 
-# Even Demo 
+# (Forked from Even Realities Repo)
+
+My glasses haven't arrived yet, but I wanted to create my app with the ability to use Ollama.
 
 ## Even AI
 The general process of the Even AI function is as follows: After the app and glasses are 
